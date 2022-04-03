@@ -1,0 +1,5 @@
+Comandos:
+
+git status 
+
+git add. ou git add-A (para adicionar os arquivos ao github
